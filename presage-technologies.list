@@ -1,1 +1,1 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/PPA.gpg] https://presage-security.github.io/PPA ./
+deb [signed-by=/etc/apt/trusted.gpg.d/presage-technologies.gpg] https://presage-security.github.io/PPA ./
