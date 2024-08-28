@@ -19,19 +19,19 @@ Description: Presage Technologies Physiology Edge
  Presage Technologies Physiology Edge contains code for physiological metrics or intermediate result computation from video signal on edge devices.
 
 Package: libsmartspectra-dev
-Version: 0.0.1
+Version: 0.4.1
 Architecture: amd64
 Maintainer: Presage Technologies Maintainers <maintainer@presagetech.com>
-Installed-Size: 5684
+Installed-Size: 5727
 Depends: libphysiologyedge-dev (>= 0.4.1)
 Conflicts: libsmartspectra-dev
 Replaces: libsmartspectra-dev
 Provides: libsmartspectra-dev
-Filename: ./libsmartspectra-dev-0.0.1-Linux.deb
-Size: 1224100
-MD5sum: b3420d55e82dd236fc49a24149f59775
-SHA1: da238fc3db860904b9d0805adbd1282698813065
-SHA256: 8f1ed4d1e42c53fc1684522c299aa25786d2e063c7fe072728cc192487544e15
+Filename: ./libsmartspectra-dev-0.4.1-Linux.deb
+Size: 1232700
+MD5sum: a18f2ec5cf7015d59207c2a196a5c2cf
+SHA1: ea39e2d9bd4c32c6ccd9021fe940fa93152c6e2c
+SHA256: c6643150255f5d97d7be627aa0c97cb1c65d87ea094bd4ab6299c1d95497ef90
 Section: libdevel
 Priority: optional
 Homepage: https://www.presagetechnologies.com
