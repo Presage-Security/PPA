@@ -18,6 +18,26 @@ Homepage: https://www.presagetechnologies.com
 Description: Presage Technologies Physiology Edge
  Presage Technologies Physiology Edge contains code for physiological metrics or intermediate result computation from video signal on edge devices.
 
+Package: libphysiologyedge-dev
+Version: 0.4.2
+Architecture: amd64
+Maintainer: Presage Technologies Maintainers <maintainer@presagetech.com>
+Installed-Size: 192227
+Depends: libopencv-dev (= 4.10.0-jammy-presage-1), libgles2 (>= 1.4.0), libegl1 (>= 1.4.0), libstdc++6 (>= 12.3), libc6 (>= 2.35)
+Conflicts: libphysiologyedge-dev
+Replaces: libphysiologyedge-dev
+Provides: libphysiologyedge-dev
+Filename: ./libphysiologyedge-dev-0.4.2-amd64.deb
+Size: 53280404
+MD5sum: 0ce9f91d0c1b61706d4873c57bbf67ac
+SHA1: 87e34227f7fdc6d6c17b0e6907b9da10ffb64cbe
+SHA256: 9f289badcf36c583211627d39885464fa3b813707214cafd99f6c5705f19eaf9
+Section: libdevel
+Priority: optional
+Homepage: https://www.presagetechnologies.com
+Description: Presage Technologies Physiology Edge
+ Presage Technologies Physiology Edge contains code for physiological metrics or intermediate result computation from video signal on edge devices.
+
 Package: libsmartspectra-dev
 Version: 0.4.1
 Architecture: amd64
@@ -32,6 +52,26 @@ Size: 1232700
 MD5sum: a18f2ec5cf7015d59207c2a196a5c2cf
 SHA1: ea39e2d9bd4c32c6ccd9021fe940fa93152c6e2c
 SHA256: c6643150255f5d97d7be627aa0c97cb1c65d87ea094bd4ab6299c1d95497ef90
+Section: libdevel
+Priority: optional
+Homepage: https://www.presagetechnologies.com
+Description: SmartSpectra C++ SDK
+ Presage Technologies SmartSpectra C++ SDK is an easy-to-use C++ framework for physiological metric computation from live video / webcams, video files, or image video frames.
+
+Package: libsmartspectra-dev
+Version: 0.4.2
+Architecture: amd64
+Maintainer: Presage Technologies Maintainers <maintainer@presagetech.com>
+Installed-Size: 34949
+Depends: libphysiologyedge-dev (>= 0.4.2)
+Conflicts: libsmartspectra-dev
+Replaces: libsmartspectra-dev
+Provides: libsmartspectra-dev
+Filename: ./libsmartspectra-dev-0.4.2-Linux.deb
+Size: 4558264
+MD5sum: c09613c4c2a5a7db248b4182313c7a03
+SHA1: b9eecab0dbcc07bd0790a6234a2e7119a239a04e
+SHA256: 16e62341ea4b05c2f8012f5fd24f87a6720e5f6f28b0f5e9270edd93b2e7f586
 Section: libdevel
 Priority: optional
 Homepage: https://www.presagetechnologies.com
