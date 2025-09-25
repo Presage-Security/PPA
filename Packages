@@ -247,10 +247,10 @@ Conflicts: libsmartspectra-dev
 Replaces: libsmartspectra-dev
 Provides: libsmartspectra-dev
 Filename: ./libsmartspectra-dev-1.7.0-amd64.deb
-Size: 1701870
-MD5sum: 9781d3420af9185990a3ba877366590a
-SHA1: 6038c738295d84bf0ece174e43d227050775e934
-SHA256: 8f5dfccc75befa9de831c8e9cd5723d21074370ee310286f54b35cf23e98fd17
+Size: 1701860
+MD5sum: 5fd997d2ce1c9a727854708a3332f0b4
+SHA1: 17b4e8e9c37a7f7794411855b32f418e1106b811
+SHA256: 052368b01b0f42710abe67b515dfd6c43f08c6d7238c05005c85f23be3b4a3f9
 Section: libdevel
 Priority: optional
 Homepage: https://www.presagetechnologies.com
