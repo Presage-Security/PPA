@@ -157,6 +157,26 @@ Homepage: https://www.presagetechnologies.com
 Description: Presage Technologies Physiology Edge
  Presage Technologies Physiology Edge contains code for physiological metrics or intermediate result computation from video signal on edge devices.
 
+Package: libphysiologyedge-dev
+Version: 2.0.2
+Architecture: amd64
+Maintainer: Presage Technologies Maintainers <maintainer@presagetech.com>
+Installed-Size: 146382
+Depends: libopencv-dev (= 4.10.0-jammy-presage-2), libgles2 (>= 1.4.0), libegl1 (>= 1.4.0), libstdc++6 (>= 12.3), libc6 (>= 2.35)
+Conflicts: libphysiologyedge-dev
+Replaces: libphysiologyedge-dev
+Provides: libphysiologyedge-dev
+Filename: ./libphysiologyedge-dev-2.0.2-amd64.deb
+Size: 49872454
+MD5sum: 1c5b917fced6bfeb14d284c251218428
+SHA1: 65223a0bb4968c6ac8e96565e87857d5e81d0d2c
+SHA256: d000aa21c705d0f0cc3236e5129f59754a29199099dc96399731332187d2c6ab
+Section: libdevel
+Priority: optional
+Homepage: https://www.presagetechnologies.com
+Description: Presage Technologies Physiology Edge
+ Presage Technologies Physiology Edge contains code for physiological metrics or intermediate result computation from video signal on edge devices.
+
 Package: libsmartspectra-dev
 Version: 0.4.1
 Architecture: amd64
