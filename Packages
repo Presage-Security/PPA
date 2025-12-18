@@ -317,3 +317,23 @@ Homepage: https://www.presagetechnologies.com
 Description: SmartSpectra C++ SDK
  Presage Technologies SmartSpectra C++ SDK is an easy-to-use C++ framework for physiological metric computation from live video / webcams, video files, or image video frames.
 
+Package: libsmartspectra-dev
+Version: 2.0.5
+Architecture: amd64
+Maintainer: Presage Technologies Maintainers <maintainer@presagetech.com>
+Installed-Size: 8314
+Depends: libphysiologyedge-dev (>= 2.0.5), libc6 (>= 2.34), libopengl0, libstdc++6 (>= 11), libunwind8
+Conflicts: libsmartspectra-dev
+Replaces: libsmartspectra-dev
+Provides: libsmartspectra-dev
+Filename: ./libsmartspectra-dev-2.0.5-amd64.deb
+Size: 2197950
+MD5sum: 8621877b180932c8905899010f71b1a8
+SHA1: 1c6b3ca511d829d2fcfbc66f2ad3660eda1b7827
+SHA256: 925fee421d9faa6ed65aa6e58c2d2d2920bb2a2c761959cca8e82c67547a2298
+Section: libdevel
+Priority: optional
+Homepage: https://www.presagetechnologies.com
+Description: SmartSpectra C++ SDK
+ Presage Technologies SmartSpectra C++ SDK is an easy-to-use C++ framework for physiological metric computation from live video / webcams, video files, or image video frames.
+
